@@ -1,4 +1,4 @@
-# OpenClip_inference
+# Clip_inference
 
 ### Detic was able to generate bounding boxes on approximate 1850 images from 2000 images used. The link of the dataset and the bounding_boxes images is given below.
 
